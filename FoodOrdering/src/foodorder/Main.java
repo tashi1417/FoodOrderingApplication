@@ -9,7 +9,7 @@ import java.util.ArrayList;
 import java.util.Map;
 import java.util.Scanner;
 
-public class Main {
+public class Main {s
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         PaymentContext paymentContext = new PaymentContext();
