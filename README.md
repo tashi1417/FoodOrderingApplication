@@ -86,6 +86,8 @@ Class diagrams illustrating the design patterns used in the project can be found
 
 The framework provides a fixed and unchangeable foundation, ensuring consistency and reliability. The implementation can be adjusted to meet specific needs, maintaining a stable core while allowing customization.
 
+The framework is inside the lib folder inside the FoodOrdering directory.
+
 ## Functionalities
 
 - **Admin Functions**: Add, update, delete products, and logout.
